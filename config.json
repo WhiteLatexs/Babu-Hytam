@@ -1,8 +1,10 @@
 {
-    "token": "",
+    "TOKEN": "",
     "language": "en",
     "prefix": "!",
-    "mongodbUri": "",
+    "MONGODB_URI":"",
+    "DISCORD_USER_ID":"",
+    "BOT_API":"",
     "excessCommands": {
         "other": true,
         "hentai": true,
